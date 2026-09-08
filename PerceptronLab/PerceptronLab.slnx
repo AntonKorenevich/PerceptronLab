@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="PerceptronLab.vcxproj" Id="da3da128-d478-4327-950b-0e9f0a2028d9" />
+</Solution>
