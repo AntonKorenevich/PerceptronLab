@@ -42,7 +42,7 @@ void PerceptronLab::TrainPerceptron(Perceptron* p, LogicType lType)
 			}
 			else if (lType == LogicType::OR)
 			{
-				retry |= !p->Train(data.v1, data.v2, data.targetAND);
+				retry |= !p->Train(data.v1, data.v2, data.targetOR);
 			}
 			else
 			{
